@@ -14,9 +14,9 @@ import org.springframework.transaction.annotation.Transactional;
 
 import br.com.sisdb.clientes.dto.ClientDTO;
 import br.com.sisdb.clientes.entities.Client;
-import br.com.sisdb.clientes.exceptions.DataBaseException;
-import br.com.sisdb.clientes.exceptions.ResourceNotFoundException;
 import br.com.sisdb.clientes.repository.ClientRepository;
+import br.com.sisdb.clientes.services.exceptions.DataBaseException;
+import br.com.sisdb.clientes.services.exceptions.ResourceNotFoundException;
 
 
 @Service

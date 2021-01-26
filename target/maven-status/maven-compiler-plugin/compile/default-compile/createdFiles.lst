@@ -1,6 +1,0 @@
-br/com/sisdb/clientes/repository/ClientRepository.class
-br/com/sisdb/clientes/ClientesApplication.class
-br/com/sisdb/clientes/exceptions/DataBaseException.class
-br/com/sisdb/clientes/exceptions/ResourceNotFoundException.class
-br/com/sisdb/clientes/entities/Client.class
-br/com/sisdb/clientes/dto/ClientDTO.class

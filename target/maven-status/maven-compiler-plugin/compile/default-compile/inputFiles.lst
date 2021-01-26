@@ -1,6 +1,0 @@
-/home/daniel/projetos/clientes/src/main/java/br/com/sisdb/clientes/exceptions/DataBaseException.java
-/home/daniel/projetos/clientes/src/main/java/br/com/sisdb/clientes/entities/Client.java
-/home/daniel/projetos/clientes/src/main/java/br/com/sisdb/clientes/ClientesApplication.java
-/home/daniel/projetos/clientes/src/main/java/br/com/sisdb/clientes/repository/ClientRepository.java
-/home/daniel/projetos/clientes/src/main/java/br/com/sisdb/clientes/dto/ClientDTO.java
-/home/daniel/projetos/clientes/src/main/java/br/com/sisdb/clientes/exceptions/ResourceNotFoundException.java
